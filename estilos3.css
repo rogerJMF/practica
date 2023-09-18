@@ -1,0 +1,106 @@
+.div1{
+    width: 200px;
+    height: 100px;
+    margin-bottom: 0%;
+    margin-left: 30px;
+}
+.container{
+    display: flex;
+}
+.div2{
+    margin-top: 40px;
+    margin-left: 80px;
+    width: 300px;
+    height: 20px;
+    border-radius: 10px;
+}
+.boton{
+    margin-left: 350px;
+    margin-top: 40px;
+    margin-right: 30px;
+    justify-content: space-between;
+    
+}
+.boton1{
+    width: 80px;
+}
+.div3{
+    border: solid 1px black;
+    display: flex;
+    width: 10%;
+    height: 500px;
+    flex-direction: column;
+    display: grid;
+
+}
+.divIzquierdo{
+    display: flex;
+    width: 150%;
+    height: 500%;
+}
+.botonb{
+    margin-top: 10px;
+    width: 90px;
+    height: 30px;
+    margin-left: 50px;
+}
+.strong{
+    margin-top: 10px;
+    text-align: center;
+}
+.img{
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+p{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.divderecho{
+    display: flex;
+}
+.div4{
+    margin-left: 100px;
+    
+    
+}
+.boton2{
+    width: 100px;
+    height: 30px;
+    margin-left: 300px;
+
+}
+.imagenmitad{
+    width: 700px;
+    height: 300px;
+    margin-top: 30px;
+    margin-left: 150px;
+}
+.boton3{
+    width: 100px;
+    height: 30px;
+    margin-left: 20px;
+
+}
+.boton4{
+    width: 100px;
+    height: 30px;
+    margin-left: 20px;
+
+}
+.strong2{
+    margin-left: 0px;
+
+}
+.imagen2{
+    width: 300px;
+    height: 150px;
+    margin-top: 20px;
+    margin-right: 20px;
+    padding-right: 0px;
+}
+.div7{
+    display: flex;
+}

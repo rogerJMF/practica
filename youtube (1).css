@@ -1,0 +1,204 @@
+.contenedor {
+
+    display: flex;
+    background-color: #0f0f0f;
+
+}
+
+
+
+body {
+
+    background-color: #0f0f0f;
+}
+
+
+.div1 {
+
+    height: 50px;
+    width: 50px;
+    width: 33%;
+
+}
+
+.div2 {
+
+
+    display: flex;
+    width: 33%;
+
+
+}
+
+.buscador {
+    height: 30px;
+    width: 500px;
+    border-radius: 50px;
+    
+
+
+}
+
+.div3 {
+    width: 33%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.buton {
+    margin-top: 20px;
+    height: 40px;
+    margin-right: 5px;
+    border-radius: 10px;
+    background-color: #272727;
+color: white;
+}
+
+.contenedorDos {
+
+    display: flex;
+
+}
+
+.DivIz {
+
+   width: 200px;
+    background-color: #0f0f0f;
+    flex-direction: column;
+    display: grid;
+    justify-content: end;
+    justify-content: center;
+
+
+
+}
+
+.DivDe {
+    height: 40px;
+    width: 100%;
+    background-color: #0f0f0f;
+    
+   
+    
+
+}
+.botones1{
+
+    margin-left: 450px;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+   text-align: center;
+    margin-right: 10px;
+    background-color: #272727;
+color: white;
+}
+
+.botones {
+
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+   text-align: center;
+    margin-right: 10px;
+    background-color: #272727;
+    color: white;
+   
+
+
+}
+
+.home{
+
+margin-bottom: 10px;
+width: 150px;
+height: 50px;
+margin-top: 10px;
+border-radius: 10px;
+background-color: #272727;
+color: white;
+
+
+}
+
+.add{
+
+width:600px;
+margin-top: 10px;
+height: 200px;
+margin-left: 300px;
+
+
+}
+.imagenyoutube{
+margin-left: 20px;
+height: 60px;
+}
+
+.principalC{
+
+    display: flex;
+}
+
+.Principal{
+
+   
+
+}
+
+
+
+.VideosC{
+ margin-left: 10px;
+width: 100%;
+text-align: left;
+color: white;
+
+}
+
+.imgv{
+
+    width: 250px;
+    height: 150px;
+}
+
+.VideosR{
+
+   margin-right: 10px;
+   
+  
+}
+
+.textovideo{
+
+    margin-top: 0px;
+    color: white;
+}
+
+.FlexVideos{
+
+    display: flex;
+}
+.logos{
+
+    width: 40px;
+    height: 40px;
+
+    margin-left: 5px;
+    margin-bottom: 10px;
+
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+.lo{
+
+    display: flex;
+}
+.canalN{
+    color: white;
+}
+strong{
+
+    color: white;
+}
